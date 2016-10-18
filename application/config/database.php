@@ -98,8 +98,8 @@ $db['default'] = array(
 $db['oauth'] = array(
 	'dsn'	=> 'mysql:dbname=oauth2;host=127.0.0.1',
 	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '1pt3kn3t',
+	'username' => 'USERNAME_DB_HERE',
+	'password' => 'PASSWORD_DB_HERE',
 	'database' => 'oauth2',
 	'dbdriver' => 'pdo',
 	'dbprefix' => '',
